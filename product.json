@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "product": "Apple iPhone 14",
+    "quantity": 10,
+    "price": 199
+  },
+  {
+    "id": 2,
+    "product": "Samsung Galaxy S23",
+    "quantity": 5,
+    "price": 199
+  },
+  {
+    "id": 3,
+    "product": "Google Pixel 7 Pro",
+    "quantity": 20,
+    "price": 899
+  },
+  {
+    "id": 4,
+    "product": "Sony Xperia 1 IV",
+    "quantity": 15,
+    "price": 1299
+  },
+  {
+    "id": 5,
+    "product": "OnePlus 10 Pro",
+    "quantity": 10,
+    "price": 799
+  },
+  {
+    "id": 6,
+    "product": "MacBook Air M2",
+    "quantity": 25,
+    "price": 999
+  },
+  {
+    "id": 7,
+    "product": "Dell XPS 13",
+    "quantity": 20,
+    "price": 999
+  },
+  {
+    "id": 8,
+    "product": "Microsoft Surface Laptop 5",
+    "quantity": 15,
+    "price": 999
+  },
+  {
+    "id": 9,
+    "product": "iPad Pro 2022",
+    "quantity": 30,
+    "price": 799
+  },
+  {
+    "id": 10,
+    "product": "Samsung Galaxy Tab S8+",
+    "quantity": 25,
+    "price": 799
+  }
+]
